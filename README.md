@@ -2,7 +2,6 @@ Smart Mood Lamp with OpenCV
 
 A mood-aware study lamp that uses computer vision to monitor facial expressions and indicate stress levels in real-time with a changing lamp color and a stress-level graph.
 
-
 ---
 
 Features
